@@ -23,7 +23,7 @@
           small
           color="primary"
         >
-          <v-icon dark>mdi-minus</v-icon>
+          <v-icon dark>mdi-star</v-icon>
         </v-btn>
       </v-navigation-drawer>
 
