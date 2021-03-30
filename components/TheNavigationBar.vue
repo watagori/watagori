@@ -14,14 +14,17 @@
         ></v-avatar>
 
         <v-divider class="mx-3 my-5"></v-divider>
-
-        <v-avatar
+        <v-btn
           v-for="n in 6"
           :key="n"
           class="d-block text-center mx-auto mb-9"
-          color="grey lighten-1"
-          size="28"
-        ></v-avatar>
+          fab
+          dark
+          small
+          color="primary"
+        >
+          <v-icon dark>mdi-minus</v-icon>
+        </v-btn>
       </v-navigation-drawer>
 
       <v-sheet color="grey lighten-5" height="128" width="100%"></v-sheet>
