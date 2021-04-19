@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-app-bar app clipped-right flat height="90" class="d-flex justify-end">
+    <v-app-bar app clipped-right flat height="78" class="d-flex justify-end">
       <v-container> </v-container>
     </v-app-bar>
   </div>
