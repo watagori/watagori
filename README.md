@@ -2,5 +2,5 @@
 Tanna japonensis
 </p>
 <p align="center">
-<img  height="400" src="https://raw.githubusercontent.com/watagori/watagori/main/Higurashi.jpg">
+<img  height="200" src="https://raw.githubusercontent.com/watagori/watagori/main/Higurashi.jpg">
 </p>
