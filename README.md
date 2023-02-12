@@ -7,7 +7,6 @@
   },
   "socialMedia": {
     "twitter": "@KotaroNishigori",
-    "twitter(My Activity log)": "@WatagoriBot",
     "medium": "@watagori" 
   }
 }
