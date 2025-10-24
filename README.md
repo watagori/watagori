@@ -1,0 +1,2 @@
+- [Resume (PDF)](https://watagori.com/resume.pdf)
+- [Homepage](https://watagori.com)
