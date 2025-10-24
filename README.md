@@ -1,2 +1,2 @@
-- [Resume (PDF)](https://watagori.com/resume.pdf)
-- [Homepage (watagori.com)](https://watagori.com)
+- <a href="https://watagori.com/resume.pdf" target="_blank" rel="noopener noreferrer">Resume (PDF)</a>
+- <a href="https://watagori.com" target="_blank" rel="noopener noreferrer">Homepage (watagori.com)</a>
